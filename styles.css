@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1{
+    background-color: #fff;
+    /* text-align: center; */
+
+}
+form{
+    width: 100%;
+    /* padding-left: 39.0625rem; */
+    /* display: list-item; */
+    justify-content: space-between;
+}
+
+label{
+    color:wheat ;
+}
+
+input{
+    text-decoration: white;
+}
+button{
+    color:salmon ;
+}
